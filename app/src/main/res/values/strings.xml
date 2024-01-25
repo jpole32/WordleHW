@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WordleHW</string>
+    <string name="title">Wordle!</string>
+    <string name="guessTitle1">Guess #1</string>
+    <string name="guess1">Guess Here</string>
+    <string name="guessTitle2">Guess #2</string>
+    <string name="guess2">Guess Here</string>
+    <string name="guessTitle3">Guess #3</string>
+    <string name="guess3">Guess Here</string>
+</resources>
