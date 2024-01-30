@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://github.com/WordleHW/wordleFull.gif)
+![](https://github.com/WordleHW/wordleSmall.gif)
 
 
 GIF created with ezgif
